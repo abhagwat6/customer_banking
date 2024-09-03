@@ -8,4 +8,4 @@ Module 3 Challenge - Customer Banking
 ##cd_account.py: Utilizes the Account class to create and manage a CD account, calculating and updating interest.
 ##savings_account.py: Utilizes the Account class to create and manage a savings account, calculating and updating interest.
 ##customer_banking.py: Acts as the main entry point, prompting user input to create and manage both savings and CD accounts, displaying the updated balances and interest earned by calling functions from cd_account.py and savings_account.py.
-#***Together, these files form a simple but functional banking application that allows users to manage their savings and CD accounts, calculating and displaying the interest earned over a specified period.***
+#***Together, these files form a simple banking application that allows users to manage their savings and CD accounts, calculating and displaying the interest earned over a specified period.***
